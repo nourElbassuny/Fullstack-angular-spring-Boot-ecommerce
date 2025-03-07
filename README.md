@@ -1,1 +1,1 @@
-# nourElbassuny-Fullstack-angular-spring-Boot-ecommerce
+Fullstack-angular-spring-Boot-ecommerce
